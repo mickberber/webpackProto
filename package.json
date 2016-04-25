@@ -1,0 +1,19 @@
+{
+  "name": "webpack-proto",
+  "version": "1.0.0",
+  "description": "Creating webpack from scratch using theyre documentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mickberber/webpackProto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mickberber/webpackProto/issues"
+  },
+  "homepage": "https://github.com/mickberber/webpackProto#readme"
+}
