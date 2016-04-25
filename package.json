@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mickberber/webpackProto/issues"
   },
-  "homepage": "https://github.com/mickberber/webpackProto#readme"
+  "homepage": "https://github.com/mickberber/webpackProto#readme",
+  "dependencies": {
+    "webpack": "^1.13.0"
+  }
 }
